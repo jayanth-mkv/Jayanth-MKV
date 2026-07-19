@@ -1,111 +1,53 @@
-<img alt="MasterHead" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhycjUQiPGGlkBHiqMxfTTnMTfWEPIfI5Wl_-RWYmHKwDu991ENLjBVp7BWdjldS7qnL8pz-dodMvDJSJsqE0rg78IKnqm6iE-Vi-QnTe-TmApUIM5-T8dw2tiSVnhWkSKI8vPoW8Q-frxhv4cp0g-6V-iqA97qvByGwakrzgqRqAuKmZcdxdJrkxxKxg/s1584/bg1.png" style="width: 100%;">
-<!-- <h1 align="center"><b>👋 Hi, I’m  JAYANTH 😎</b></h1> -->
+<img src="jay_banner.jpeg" width="100%" alt="Jayanth MKV personal profile banner">
 
+<h1 align="center">Hi, I’m Jayanth MKV</h1>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&duration=3000&color=36BCF7FF&background=7FFCFF00&center=true&height=69&lines=Crafting+Intelligent+Solutions;Empowering+the+Future+with+AI;Bridging+Gap+For+Man+&+Machine;Revolutionizing+with+AI+Innovations"/></p>
+<p align="center"><strong>AI Systems Engineer building agent infrastructure, developer tools, and applied multimodal systems.</strong></p>
 
-<img src="https://komarev.com/ghpvc/?username=Jayanth-MKV&label=Profile%20views&color=0e75b6&style=flat" alt="Jayanth-MKV" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayanthmkv/">LinkedIn</a> ·
+  <a href="https://x.com/jayanthmkv">X</a> ·
+  <a href="https://simplifying-ai-for-you.beehiiv.com/subscribe">Newsletter</a> ·
+  <a href="https://linktr.ee/jayanthmkv">Contact</a>
+</p>
 
+I like turning ambitious AI ideas into systems people can inspect, run, and improve. My current work spans data and business-intelligence agents, RAG-powered information pipelines, backend architecture, and delivery automation.
 
-&nbsp;
+## What I’m working on
 
-# **AI Engineer**
+- Local-first developer tools that make AI coding systems more observable and predictable.
+- Agent platforms combining MCP, RAG, structured data, and reliable backend services.
+- Multimodal systems for speech, vision, video understanding, and human-centered AI.
 
-👀 I’m also working on **Saas Development💡, Data AI 🖥️ and Custom Software Development ( **Web AI Applications** )📊**, Its Implementation in **Various Fields🧬**.
+## Selected work
 
-🌱 **Exploring** ✅, currently **Implementing😋**.
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **AIScope** | Audits Cursor, Claude Code, Copilot, and `AGENTS.md` instructions for stale, conflicting, and scope-mismatched rules. Local-only and deterministic. | [Source](https://github.com/jayanth-mkv/aiscope) |
+| **Open Agent Search** | Gives MCP-capable agents web, image, video, news, book, and page-content search through one self-hostable service. | [Source](https://github.com/jayanth-mkv/open-agent-search) · [Docs](https://jayanth-mkv.github.io/open-agent-search/) |
+| **Cement Plant AI Optimization** | Hackathon prototype combining a real-time dashboard, FastAPI, LangGraph, Gemini, PostgreSQL, and MCP for industrial decision support. | [Source](https://github.com/jayanth-mkv/cement-plant-ai-optimization-system) |
+| **Emotion2Vec Speech Emotion Detection** | FastAPI-based speech-emotion recognition project built around the emotion2vec model. | [Source](https://github.com/jayanth-mkv/emotion2vec-speech-emotion-detection-api) |
 
-💞️ I’m looking to collaborate with People who work on the Domain of 
- - **Artificial Intelligence💡**,
- - **Machine Learning🖇️**,
- - **CyberSecurity**,
- - **Web Development🌟**,
- - **Web3 🔅**,
-If you're passionate about any of these fields and are open to sharing ideas or working together, please feel free to reach out. I’m eager to learn from others and contribute where I can!
+## Research and writing
 
-💬 Ask me about **Tech concepts like AI, Web, and DSA 😊**.
+- [Web Page Indexing using a Heterogeneous Knowledge Base and Reasoning](https://link.springer.com/chapter/10.1007/978-3-031-88992-9_18)
+- [MASCCA: A Multi-Modal AI System for Comprehensive Confidence Assessment](https://www.springerprofessional.de/en/mascca-a-multi-modal-ai-system-for-comprehensive-confidence-asse/52255980)
+- [Simplifying AI For You](https://simplifying-ai-for-you.beehiiv.com/subscribe) - practical AI concepts, tools, and updates
+- [DEV Community](https://dev.to/jayanth-mkv) · [Medium](https://medium.com/@mkvjayanth1)
 
-<br>
+## Toolkit
 
-## **Be Updated In AI** 
-(click on the image below to get AI concepts, news, and updates directly to your email twice a week for free)
-<!--[![Xplore Community](https://xplore-blog.vercel.app/xc-1.png)](https://discord.com/invite/9MxVqaeK7e) -->
-[![Simlifying AI For You](https://pbs.twimg.com/profile_banners/1398581381622493190/1724340814/1500x500)](https://simplifying-ai-for-you.beehiiv.com/subscribe)
+![Primary tools: Python, Rust, TypeScript, Next.js, PostgreSQL, Docker, AWS, and GCP](https://skillicons.dev/icons?i=python,rust,ts,nextjs,postgres,docker,aws,gcp&perline=8)
 
-<br>
-<!--<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1qi9jxtXNmCobkNhd4/giphy.gif"> -->
-<br>
+`FastAPI` · `LangGraph` · `MCP` · `RAG` · `PostgreSQL` · `Docker` · `AWS` · `GCP`
 
-### Connect with me:
+## A few milestones
 
-<a href="https://twitter.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_twitter-256.png" alt="jayanthmarina" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/jayanthmkv/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_linkedin-256.png" alt="https://www.linkedin.com/in/jayanthmkv" height="40" width="40" /></a>
-<a href="https://www.facebook.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_facebook-256.png" alt="https://www.facebook.com/jayanthmkv" height="40" width="40" /></a>
-<a href="https://www.instagram.com/jayanth_mkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_instagram-256.png" alt="https://www.instagram.com/jayanth_mkv" height="40" width="40" /></a>
-<a href="https://discord.gg/9MxVqaeK7e" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-256.png" alt="https://discord.gg/9MxVqaeK7e" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@Simple-AI-fy" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_youtube-64.png" alt="https://www.youtube.com/@Simple-AI-fy" height="40" width="40" /></a>
-<br> 
+- B.Tech in Computer Science & Engineering with Honors; Gold Medalist and Best Outgoing Student.
+- Top-100 finalist at the Google Gen AI Exchange Hackathon 2025.
+- Smart India Hackathon 2023 national finalist and two-time national-level hackathon winner.
+- Mentored students and professionals through production-oriented AI projects and workshops.
 
+## Let’s build
 
-<br>
-             
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jayanth-MKV&theme=nightowl)
-
-<br><h3 align="left">Languages</h3>
-
-![Langs](https://skillicons.dev/icons?i=js,cpp,python,rust,go)
-
-
-<h3 align="left">Web</h3>
-
-![Web](https://skillicons.dev/icons?i=mongo,express,react,nodejs,next,typescript,tailwind,redux,threejs,prisma&perline=5)
-
-
-
-<h3 align="left">Backend</h3>
-
-![Backend](https://skillicons.dev/icons?i=django,fastapi,flask,postgres,redis,rabbitmq,prometheus,graphql&perline=5)
-
-
-<h3 align="left">AI-ML</h3>
-
-![AI](https://skillicons.dev/icons?i=pytorch,aws&perline=5)
-
-<h3 align="left"> Dev 🛠</h3>
-
-![Web](https://skillicons.dev/icons?i=docker,kubernetes,postman,git,electron,&perline=5)
-
-
-<h3 align="left"> My articles here</h3>
-
-![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-
-
-<br> 
-    
-### 📫 **REACH ME ON** 
-
-  
-- 💬 **Send Me Contract**     : <https://linktr.ee/jayanthmkv><br>
-- 💬 **Blog**     : <https://medium.com/@mkvjayanth1><br>
-- 💥 **Discord**  : Jayanth#7139 <br>
-- 💥 **Discord channel [ XPLORE COMMUNITY ]** : <a href="https://discord.gg/9MxVqaeK7e" > Join </a>
-<br>
-<br>
-   
-
-> ## **Every Great Discovery💥eventually led towards discovering something surpassing it !!! This is called CREATIVE DESTRUCTION**
-
-       
-       
-<!-- <br><p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayanth-MKV&theme=blue-green&show_icons=true" ></p>
-    
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayanth-MKV&theme=outrun&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p> -->
-
-       
- 
-
+I’m open to collaborating on agent infrastructure, developer tools, applied AI systems, and multimodal research. Reach me through [LinkedIn](https://www.linkedin.com/in/jayanthmkv/) or my [contact page](https://linktr.ee/jayanthmkv).
