@@ -25,8 +25,10 @@ I like turning ambitious AI ideas into systems people can inspect, run, and impr
 | --- | --- | --- |
 | **AIScope** | Audits Cursor, Claude Code, Copilot, and `AGENTS.md` instructions for stale, conflicting, and scope-mismatched rules. Local-only and deterministic. | [Source](https://github.com/jayanth-mkv/aiscope) |
 | **Open Agent Search** | Gives MCP-capable agents web, image, video, news, book, and page-content search through one self-hostable service. | [Source](https://github.com/jayanth-mkv/open-agent-search) · [Docs](https://jayanth-mkv.github.io/open-agent-search/) |
-| **Cement Plant AI Optimization** | Hackathon prototype combining a real-time dashboard, FastAPI, LangGraph, Gemini, PostgreSQL, and MCP for industrial decision support. | [Source](https://github.com/jayanth-mkv/cement-plant-ai-optimization-system) |
-| **Emotion2Vec Speech Emotion Detection** | FastAPI-based speech-emotion recognition project built around the emotion2vec model. | [Source](https://github.com/jayanth-mkv/emotion2vec-speech-emotion-detection-api) |
+| **Advanced Agents Cookbooks** | LangGraph agent notebooks plus a full-stack SQL agent with a FastAPI backend and Next.js interface. | [Source](https://github.com/jayanth-mkv/advanced-agents-cookbooks) |
+| **Advanced RAG Cookbooks** | Retrieval projects spanning vector similarity, local Ollama with pgvector, and FastAPI document chat. | [Source](https://github.com/jayanth-mkv/advanced-rag-cookbooks) |
+| **MCP Dump** | Small FastMCP servers and client experiments, including a safety-bounded email-validation MCP. | [Source](https://github.com/jayanth-mkv/mcp-dump) |
+| **AI Cookbooks** | Machine-learning and generative-AI learning paths, from mathematics and data engineering to federated learning and LLM pre-training. | [Source](https://github.com/jayanth-mkv/ai-cookbooks) |
 
 ## Research and writing
 
