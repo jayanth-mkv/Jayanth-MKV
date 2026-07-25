@@ -27,10 +27,10 @@ The selected work below is intentionally curated around maintained projects and 
 | --- | --- | --- |
 | **AIScope** | Inspects project guidance for AI coding agents to reveal conflicting, stale, and scope-mismatched instructions locally and deterministically. | [Source](https://github.com/jayanth-mkv/aiscope) · [User guide](https://jayanth-mkv.github.io/aiscope/) |
 | **Open Agent Search** | A unified, self-hostable search and content-retrieval layer for AI agents and applications. | [Source](https://github.com/jayanth-mkv/open-agent-search) · [Docs](https://jayanth-mkv.github.io/open-agent-search/) |
-| **Advanced Agents Cookbooks** | Practical learning projects for designing, evaluating, and operating capable agent workflows. | [Source](https://github.com/jayanth-mkv/advanced-agents-cookbooks) |
-| **Advanced RAG Cookbooks** | Practical retrieval and knowledge-assistance projects for building grounded AI experiences. | [Source](https://github.com/jayanth-mkv/advanced-rag-cookbooks) |
+| **Agent Engineering Cookbooks** | Practical learning projects for designing, evaluating, and operating capable agent workflows. | [Source](https://github.com/jayanth-mkv/agent-engineering-cookbooks) |
+| **Retrieval Systems Cookbooks** | Practical retrieval and knowledge-assistance projects for building grounded AI experiences. | [Source](https://github.com/jayanth-mkv/retrieval-systems-cookbooks) |
 | **MCP Dump** | Reference servers, clients, and experiments for building reliable agent-tool integrations. | [Source](https://github.com/jayanth-mkv/mcp-dump) |
-| **Skills Dump** | Reusable Agent Skills that package focused workflows with clear standards and validation. | [Source](https://github.com/jayanth-mkv/skills-dump) |
+| **Agent Skills Registry** | Reusable Agent Skills that package focused workflows with clear standards and validation. | [Source](https://github.com/jayanth-mkv/agent-skills-registry) |
 | **AI Cookbooks** | Curated learning paths for foundational and generative AI concepts. | [Source](https://github.com/jayanth-mkv/ai-cookbooks) |
 
 ## Research and writing
