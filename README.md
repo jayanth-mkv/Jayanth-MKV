@@ -13,6 +13,8 @@
 
 I like turning ambitious AI ideas into systems people can inspect, run, and improve. My current work spans data and business-intelligence agents, RAG-powered information pipelines, backend architecture, and delivery automation.
 
+The selected work below is intentionally curated around maintained projects and will evolve as the portfolio does.
+
 ## What I’m working on
 
 - Local-first developer tools that make AI coding systems more observable and predictable.
