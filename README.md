@@ -1,4 +1,4 @@
-<img src="jay_banner.jpeg" width="100%" alt="Jayanth MKV personal profile banner">
+<img src="jay_banner.webp" width="100%" alt="Jayanth MKV personal profile banner">
 
 <h1 align="center">Hi, I’m Jayanth MKV</h1>
 
