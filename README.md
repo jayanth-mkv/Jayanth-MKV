@@ -28,6 +28,7 @@ I like turning ambitious AI ideas into systems people can inspect, run, and impr
 | **Advanced Agents Cookbooks** | LangGraph agent notebooks plus a full-stack SQL agent with a FastAPI backend and Next.js interface. | [Source](https://github.com/jayanth-mkv/advanced-agents-cookbooks) |
 | **Advanced RAG Cookbooks** | Retrieval projects spanning vector similarity, local Ollama with pgvector, and FastAPI document chat. | [Source](https://github.com/jayanth-mkv/advanced-rag-cookbooks) |
 | **MCP Dump** | Small FastMCP servers and client experiments, including a safety-bounded email-validation MCP. | [Source](https://github.com/jayanth-mkv/mcp-dump) |
+| **Skills Dump** | Installable Agent Skills with validation gates, starting with a production-focused repository README workflow. | [Source](https://github.com/jayanth-mkv/skills-dump) |
 | **AI Cookbooks** | Machine-learning and generative-AI learning paths, from mathematics and data engineering to federated learning and LLM pre-training. | [Source](https://github.com/jayanth-mkv/ai-cookbooks) |
 
 ## Research and writing
