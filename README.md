@@ -23,13 +23,13 @@ I like turning ambitious AI ideas into systems people can inspect, run, and impr
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| **AIScope** | Audits Cursor, Claude Code, Copilot, and `AGENTS.md` instructions for stale, conflicting, and scope-mismatched rules. Local-only and deterministic. | [Source](https://github.com/jayanth-mkv/aiscope) |
-| **Open Agent Search** | Gives MCP-capable agents web, image, video, news, book, and page-content search through one self-hostable service. | [Source](https://github.com/jayanth-mkv/open-agent-search) · [Docs](https://jayanth-mkv.github.io/open-agent-search/) |
-| **Advanced Agents Cookbooks** | LangGraph agent notebooks plus a full-stack SQL agent with a FastAPI backend and Next.js interface. | [Source](https://github.com/jayanth-mkv/advanced-agents-cookbooks) |
-| **Advanced RAG Cookbooks** | Retrieval projects spanning vector similarity, local Ollama with pgvector, and FastAPI document chat. | [Source](https://github.com/jayanth-mkv/advanced-rag-cookbooks) |
-| **MCP Dump** | Small FastMCP servers and client experiments, including a safety-bounded email-validation MCP. | [Source](https://github.com/jayanth-mkv/mcp-dump) |
-| **Skills Dump** | Installable Agent Skills with validation gates, starting with a production-focused repository README workflow. | [Source](https://github.com/jayanth-mkv/skills-dump) |
-| **AI Cookbooks** | Machine-learning and generative-AI learning paths, from mathematics and data engineering to federated learning and LLM pre-training. | [Source](https://github.com/jayanth-mkv/ai-cookbooks) |
+| **AIScope** | Inspects project guidance for AI coding agents to reveal conflicting, stale, and scope-mismatched instructions locally and deterministically. | [Source](https://github.com/jayanth-mkv/aiscope) |
+| **Open Agent Search** | A unified, self-hostable search and content-retrieval layer for AI agents and applications. | [Source](https://github.com/jayanth-mkv/open-agent-search) · [Docs](https://jayanth-mkv.github.io/open-agent-search/) |
+| **Advanced Agents Cookbooks** | Practical learning projects for designing, evaluating, and operating capable agent workflows. | [Source](https://github.com/jayanth-mkv/advanced-agents-cookbooks) |
+| **Advanced RAG Cookbooks** | Practical retrieval and knowledge-assistance projects for building grounded AI experiences. | [Source](https://github.com/jayanth-mkv/advanced-rag-cookbooks) |
+| **MCP Dump** | Reference servers, clients, and experiments for building reliable agent-tool integrations. | [Source](https://github.com/jayanth-mkv/mcp-dump) |
+| **Skills Dump** | Reusable Agent Skills that package focused workflows with clear standards and validation. | [Source](https://github.com/jayanth-mkv/skills-dump) |
+| **AI Cookbooks** | Curated learning paths for foundational and generative AI concepts. | [Source](https://github.com/jayanth-mkv/ai-cookbooks) |
 
 ## Research and writing
 
